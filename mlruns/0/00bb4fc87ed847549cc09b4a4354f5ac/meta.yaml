@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/00bb4fc87ed847549cc09b4a4354f5ac/artifacts
+end_time: 1677604082400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00bb4fc87ed847549cc09b4a4354f5ac
+run_name: masked-asp-914
+run_uuid: 00bb4fc87ed847549cc09b4a4354f5ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604081201
+status: 4
+tags: []
+user_id: panpan

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/51466c3ee922411db03f66dede5a7e7d/artifacts
+end_time: 1677604196833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51466c3ee922411db03f66dede5a7e7d
+run_name: unique-conch-713
+run_uuid: 51466c3ee922411db03f66dede5a7e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604195686
+status: 4
+tags: []
+user_id: panpan

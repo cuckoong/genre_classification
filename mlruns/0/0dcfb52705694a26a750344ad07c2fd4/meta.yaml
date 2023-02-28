@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/0dcfb52705694a26a750344ad07c2fd4/artifacts
+end_time: 1677604307829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dcfb52705694a26a750344ad07c2fd4
+run_name: respected-mouse-210
+run_uuid: 0dcfb52705694a26a750344ad07c2fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604276721
+status: 3
+tags: []
+user_id: panpan

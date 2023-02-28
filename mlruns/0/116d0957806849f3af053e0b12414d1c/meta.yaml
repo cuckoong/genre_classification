@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/116d0957806849f3af053e0b12414d1c/artifacts
+end_time: 1677604276701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 116d0957806849f3af053e0b12414d1c
+run_name: sassy-shark-607
+run_uuid: 116d0957806849f3af053e0b12414d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604258344
+status: 3
+tags: []
+user_id: panpan

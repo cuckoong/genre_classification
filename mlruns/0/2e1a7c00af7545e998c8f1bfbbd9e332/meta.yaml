@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/2e1a7c00af7545e998c8f1bfbbd9e332/artifacts
+end_time: 1677604354195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e1a7c00af7545e998c8f1bfbbd9e332
+run_name: sedate-sheep-484
+run_uuid: 2e1a7c00af7545e998c8f1bfbbd9e332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604324565
+status: 3
+tags: []
+user_id: panpan

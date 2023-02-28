@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/c401c05027054a6cbb3659ec55bb341a/artifacts
+end_time: 1677604381534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c401c05027054a6cbb3659ec55bb341a
+run_name: bouncy-crow-273
+run_uuid: c401c05027054a6cbb3659ec55bb341a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604354214
+status: 3
+tags: []
+user_id: panpan

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/bcadc913844040529d105b851ba6d2cf/artifacts
+end_time: 1677604394954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcadc913844040529d105b851ba6d2cf
+run_name: zealous-ape-273
+run_uuid: bcadc913844040529d105b851ba6d2cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677604381549
+status: 3
+tags: []
+user_id: panpan
