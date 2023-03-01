@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/093ac8bd9afe4c2786678443edec69d7/artifacts
+end_time: 1677656079021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 093ac8bd9afe4c2786678443edec69d7
+run_name: carefree-bird-702
+run_uuid: 093ac8bd9afe4c2786678443edec69d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677656063455
+status: 3
+tags: []
+user_id: panpan

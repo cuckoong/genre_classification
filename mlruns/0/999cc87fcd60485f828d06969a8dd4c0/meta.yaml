@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/999cc87fcd60485f828d06969a8dd4c0/artifacts
+end_time: 1677656148090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 999cc87fcd60485f828d06969a8dd4c0
+run_name: bemused-fly-483
+run_uuid: 999cc87fcd60485f828d06969a8dd4c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677656118445
+status: 3
+tags: []
+user_id: panpan

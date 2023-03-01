@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/panpan/Documents/genre_classification/mlruns/0/01ade7f213d44f5c94087e144bb66c3d/artifacts
+end_time: 1677656161491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01ade7f213d44f5c94087e144bb66c3d
+run_name: unruly-shrew-101
+run_uuid: 01ade7f213d44f5c94087e144bb66c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677656148108
+status: 3
+tags: []
+user_id: panpan

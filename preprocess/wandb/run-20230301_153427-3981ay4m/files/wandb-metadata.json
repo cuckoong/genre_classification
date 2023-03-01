@@ -1,0 +1,43 @@
+{
+    "os": "macOS-13.2.1-arm64-arm-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-03-01T07:34:29.602744",
+    "startedAt": "2023-03-01T07:34:27.493343",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Preprocess Data"
+    ],
+    "state": "running",
+    "program": "/Users/panpan/Documents/genre_classification/preprocess/run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/cuckoong/genre_classification.git",
+        "commit": "36cd8a77ee806a0b045e72ab2b8c888aedc199db"
+    },
+    "email": "wuxiaol7@connect.hku.hk",
+    "root": "/Users/panpan/Documents/genre_classification",
+    "host": "Pandas-MacBook-Pro.local",
+    "username": "panpan",
+    "executable": "/Users/panpan/miniforge3/envs/mlflow-89b31fd2b07b9cbaf3d2549581ce62fe6fab9470/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "disk": {
+        "total": 460.4317207336426,
+        "used": 8.32748794555664
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
